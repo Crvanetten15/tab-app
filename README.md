@@ -19,7 +19,7 @@ Provide step-by-step instructions on how to install and set up your project. Inc
 
 ```bash
 # Example installation commands
-$ git clone https://github.com/yourusername/yourproject.git
-$ cd yourproject
+$ git clone https://github.com/yourusername/tab-app.git
+$ cd tab-app
 $ npm install
 ```
