@@ -23,3 +23,11 @@ $ git clone https://github.com/yourusername/tab-app.git
 $ cd tab-app
 $ npm install
 ```
+
+## Usage
+
+```bash
+# Example installation commands
+$ npm run dev
+
+```
