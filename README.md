@@ -1,10 +1,10 @@
-# Project Name
+# Tab-Forge
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
 
-A brief description of your project goes here.
+TabForge is a desktop application built using Electron.js and TypeScript, designed to streamline the creation and management of guitar tablature. Whether you're a seasoned guitarist or just starting, TabForge provides a user-friendly environment for effortlessly writing, editing, and saving your guitar tablature.
 
 ## Table of Contents
 
