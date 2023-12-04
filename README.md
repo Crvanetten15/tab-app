@@ -1,5 +1,7 @@
 # Tab-Forge
 
+> An OpenSource guitar tabulature application
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
@@ -24,10 +26,10 @@ $ cd tab-app
 $ npm install
 ```
 
-## Usage
+## Contributing
 
 ```bash
-# Example installation commands
+# Start Development Environment
 $ npm run dev
 
 ```
